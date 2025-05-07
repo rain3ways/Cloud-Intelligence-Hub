@@ -141,7 +141,7 @@ This repository aims to cover various aspects of cloud intelligence. Future proj
 
 ---
 
-* [Return to Main Portfolio](../../AWS-DevOps-Portfolio)
+* [Return to Main Portfolio](https://github.com/rain3ways/AWS-DevOps-Portfolio)
 
 **📞 Let's Connect!**  
 Ready to discuss monitoring solutions for your enterprise? [Schedule Technical Review](mailto:your.email@example.com?subject=Blueprint%20Discussion) 
