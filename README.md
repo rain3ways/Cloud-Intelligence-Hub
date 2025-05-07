@@ -43,13 +43,13 @@ An integrated observability solution was implemented:
 
 #### 🎬 Live Demo / Video Walkthrough
 
-* A video showing:
+-  A video showing:
     * Browse metrics and logs in CloudWatch.
     * Showing the configured CloudWatch Alarm state.
     * Navigating the final Grafana dashboard
     * Showing the Grafana data source configuration (highlighting CloudWatch connection).
 
-  [▶️ Watch Demo Video](https://youtu.be/TOPYE0Iz1CY)
+- [▶️ Watch Demo Video](https://youtu.be/TOPYE0Iz1CY)
 
 
 ### 📈 Quantifiable Business Impact / Demonstrated Outcomes
